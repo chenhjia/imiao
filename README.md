@@ -1,3 +1,3 @@
 imiao
 =====
-虽然手动添加依赖库appcompat-v7,pullToFresh
+需要手动添加依赖库appcompat-v7,pullToFresh
